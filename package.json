@@ -4,9 +4,12 @@
   "description": "HTML, CSS, JavaScript template",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "hint": "npx hint ."
   },
   "keywords": [],
   "author": "Shahadat Hossain",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "hint": "^7.1.9"
+  }
 }
